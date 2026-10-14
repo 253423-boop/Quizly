@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Quizly</string>
+    <string name="home_subtitle">Pon a prueba tus conocimientos en programación</string>
+    <string name="select_category_title">1. Selecciona una categoría</string>
+    <string name="select_difficulty_title">2. Selecciona la dificultad</string>
+    <string name="category_java">Java</string>
+    <string name="category_kotlin">Kotlin</string>
+    <string name="difficulty_easy">Fácil</string>
+    <string name="difficulty_medium">Medio</string>
+    <string name="difficulty_hard">Difícil</string>
+    <string name="last_result_card_title">Último resultado obtenido</string>
+    <string name="last_result_summary">%1$s • Nivel %2$s: %3$d pts (%4$d%%)</string>
+    <string name="no_previous_results">Aún no hay partidas registradas. ¡Comienza tu primer cuestionario!</string>
+    <string name="bank_counter_format">Banco disponible: %1$d preguntas totales (%2$d personalizadas)</string>
+    <string name="btn_start_quiz">Comenzar Cuestionario</string>
+    <string name="btn_add_custom_question">Agregar pregunta personalizada</string>
+    <string name="quiz_progress_format">Pregunta %1$d de %2$d</string>
+    <string name="quiz_points_badge">Valor: 25 pts</string>
+    <string name="btn_next_question">Siguiente pregunta</string>
+    <string name="btn_finish_quiz">Calificar y terminar</string>
+    <string name="results_screen_title">Resultados de la Partida</string>
+    <string name="results_score_points">%1$d / 100 pts</string>
+    <string name="results_percentage_format">%1$d%% de efectividad (%2$d de %3$d aciertos)</string>
+    <string name="results_feedback_excellent">¡Excelente dominio del lenguaje!</string>
+    <string name="results_feedback_good">¡Buen trabajo! Sigue practicando.</string>
+    <string name="results_feedback_retry">Puedes mejorar, repasa los conceptos clave.</string>
+    <string name="btn_play_again">Jugar de nuevo</string>
+    <string name="btn_back_home">Volver al inicio</string>
+    <string name="dialog_add_title">Nueva Pregunta Personalizada</string>
+    <string name="field_statement_label">Enunciado de la pregunta</string>
+    <string name="field_option_label">Opción %1$d</string>
+    <string name="correct_answer_slider_label">Respuesta correcta: Opción %1$d</string>
+    <string name="btn_save">Guardar</string>
+    <string name="btn_cancel">Cancelar</string>
+    <string name="error_empty_fields">Completa el enunciado y las 4 opciones para guardar.</string>
+</resources>
