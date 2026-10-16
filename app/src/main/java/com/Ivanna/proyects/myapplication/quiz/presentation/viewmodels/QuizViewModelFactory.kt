@@ -1,5 +1,4 @@
 package com.Ivanna.proyects.myapplication.quiz.presentation.viewmodels
-
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
 import com.Ivanna.proyects.myapplication.quiz.data.repository.QuizRepository
